@@ -3722,7 +3722,7 @@ if(y.gor(y)){y.gvc().ox(0,new O.mX(z,this))
 z.b=" <span class='cost'>"+z.b+"</span>"}z.c=""
 y=this.cD
 if(y.gor(y)){y.gvc().ox(0,new O.j8(z,this))
-z.c=" <span class='award'>"+z.c+"</span>"}y=this.Fk()
+z.c=" <span class='award'>"+cnItem(z.c)+"</span>"}y=this.Fk()
 x=z.b
 w=this.FL
 v=this.uh
